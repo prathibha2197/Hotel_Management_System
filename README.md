@@ -555,39 +555,7 @@ The Supabase service-role key is used only for server-side administrative authen
 
 ---
 
-# 📸 Screenshots
 
-> Add screenshots here before publishing the repository.
-
-### 🏠 Home Page
-
-`Add screenshot`
-
-### 🔐 Login
-
-`Add screenshot`
-
-### 👤 Guest Dashboard
-
-`Add screenshot`
-
-### 🧑‍💼 Manager Dashboard
-
-`Add screenshot`
-
-### 🛡️ Admin Dashboard
-
-`Add screenshot`
-
-### 🏨 Hotel Details
-
-`Add screenshot`
-
-### 📋 Booking Management
-
-`Add screenshot`
-
----
 
 # 📈 Project Highlights
 
